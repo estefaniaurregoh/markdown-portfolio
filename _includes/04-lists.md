@@ -1,3 +1,3 @@
-*ordered list
-*emojis
-*to do
+* ordered list
+* emojis
+* to do
